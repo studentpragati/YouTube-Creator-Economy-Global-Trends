@@ -1,4 +1,4 @@
-# Youtube_Analysis_Dashboard
+# YouTube Creator Economy & Global Trends
 📊 YouTube Analytics Dashboard – SQL + Power BI
 
 
